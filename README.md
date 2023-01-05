@@ -25,7 +25,7 @@ Classify correctly the 4 classes of stages of cancer, where one of them is benig
 Data is obtained from  [kaggle](https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class).
 
 - Number of instances - 3242
-- Number of classes - 2
+- Number of classes - 4
   #### Attribute Information
   ##### Inputs
   - filepath: filepath of images
