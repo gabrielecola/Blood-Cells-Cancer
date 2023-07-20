@@ -1,5 +1,14 @@
 ## Blood Cells Cancer analyzed via CNN
 
+<div align="center">
+  <a href="https://huggingface.co/spaces/statgabriele/bloodcancer">
+    <img src="https://huggingface.co/favicon.ico" alt="Hugging Face" width="70" height="70">
+    <h3 style="font-size: 10px;">Explore the Web App on Hugging Face</h3>
+  </a>
+</div>
+
+
+
 ## Table of Contents
 
  - [Blood Cells Cancer analyzed via CNN](#blood-cells-cancer-analyzed-via-cnn)
@@ -16,6 +25,7 @@
 
 The definitive diagnosis of Acute Lymphoblastic Leukemia (ALL), as a highly prevalent cancer, requires invasive, expensive, and time-consuming diagnostic tests. ALL diagnosis using peripheral blood smear (PBS) images plays a vital role in the initial screening of cancer from non-cancer cases. 
 Thus , our aim is to use two different deep learning architectures, CNN,  in order to classiify correctly all stages of cancer.
+
 
 
 ### 1. Problem Statement
