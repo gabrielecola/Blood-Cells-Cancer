@@ -3,9 +3,19 @@
 <div align="center">
   <a href="https://huggingface.co/spaces/statgabriele/bloodcancer">
     <img src="https://huggingface.co/favicon.ico" alt="Hugging Face" width="70" height="70">
-    <h3 style="font-size: 10px;">Explore the Web App on Hugging Face</h3>
+    <h3 style="font-size: 10px;">
+      <a href="https://huggingface.co/spaces/statgabriele/bloodcancer" style="text-decoration: none; color: inherit;">Explore the Web App on Hugging Face</a>
+    </h3>
   </a>
+  <ul style="text-align: left;">
+    <li>Step 1: <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class">Download Data</a></li>
+    <li>Step 2: Put the images in the APP</li>
+    <li>Step 3: Click it Predict</li>
+    <!-- Add more steps if needed -->
+  </ul>
 </div>
+
+
 
 
 
